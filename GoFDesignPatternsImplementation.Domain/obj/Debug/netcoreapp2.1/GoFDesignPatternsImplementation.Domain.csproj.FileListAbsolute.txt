@@ -1,0 +1,9 @@
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.csprojAssemblyReference.cache
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.AssemblyInfoInputs.cache
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.AssemblyInfo.cs
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\bin\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.deps.json
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\bin\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.dll
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\bin\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.pdb
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.dll
+C:\Users\OMID\Source\Repos\GoFDesignPatternsImplementation\GoFDesignPatternsImplementation.Domain\obj\Debug\netcoreapp2.1\GoFDesignPatternsImplementation.Domain.pdb

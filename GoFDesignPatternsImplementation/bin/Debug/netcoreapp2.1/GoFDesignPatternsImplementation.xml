@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GoFDesignPatternsImplementation</name>
+    </assembly>
+    <members>
+        <member name="T:GoFDesignPatternsImplementation.Controllers.TaskController">
+            <summary>
+            The Bridge Pattern
+            The Task Controller
+            </summary>
+        </member>
+        <member name="M:GoFDesignPatternsImplementation.Controllers.TaskController.#ctor(GoFDesignPatternsImplementation.Domain.BusinessServices.ITaskService)">
+            <summary>
+            Create a new instance of Task Controller
+            </summary>
+            <param name="service"></param>
+        </member>
+        <member name="M:GoFDesignPatternsImplementation.Controllers.TaskController.GetTaskItems">
+            <summary>
+            Gets a list of Tasks
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:GoFDesignPatternsImplementation.Startup">
+            <summary>
+            The Strartup configuration process
+            </summary>
+        </member>
+        <member name="M:GoFDesignPatternsImplementation.Startup.#ctor(Microsoft.Extensions.Configuration.IConfiguration)">
+            <summary>
+            The strat up method
+            </summary>
+            <param name="configuration"></param>
+        </member>
+        <member name="P:GoFDesignPatternsImplementation.Startup.Configuration">
+            <summary>
+            The Configuration 
+            </summary>
+        </member>
+        <member name="M:GoFDesignPatternsImplementation.Startup.ConfigureServices(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            This method gets called by the runtime. Use this method to add services to the container.
+            </summary>
+            <param name="services"></param>
+        </member>
+        <member name="M:GoFDesignPatternsImplementation.Startup.Configure(Microsoft.AspNetCore.Builder.IApplicationBuilder,Microsoft.AspNetCore.Hosting.IHostingEnvironment)">
+            <summary>
+            This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
+            </summary>
+            <param name="app"></param>
+            <param name="env"></param>
+        </member>
+    </members>
+</doc>
